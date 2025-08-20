@@ -7,7 +7,7 @@ It is designed to simulate a **two-tier application architecture** (App in one V
 ---
 
 ## 🏗️ Architecture Diagram
-![AWS VPC Peering Diagram](aws vpc peering diagram.png)
+![AWS VPC Peering Diagram](aws-vpc-peering-diagram.png)
 
 ---
 
